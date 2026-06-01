@@ -26,7 +26,7 @@ Resources/
 Each folder contains course materials organized by topic, module, or assignment.
 
 Technologies Used
-Programming Languages: Java
+Programming Languages: Python
 Git & GitHub
 Development Tools and IDEs as required by the course
 Learning Goals
